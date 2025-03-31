@@ -99,7 +99,7 @@ const App = () => {
         className="w-[90%] mx-auto ">
           <SwiperSlide>
           <div className="bg-gray-800 p-5 rounded-lg shadow-lg flex flex-col md:flex-row  md:items-center justify-space space-y-5 md:space-y-0 md:space-x-10 ">
-          <div className='w-[50%] items-center justify-center '> <img src="src\assets\MessIT.png" alt="MessIT" 
+          <div className='w-[50%] items-center justify-center '> <img src="https://www.bing.com/images/blob?bcid=S9wcl7792kcIqxcxoNWLuD9SqbotqVTdP5k" alt="MessIT" 
           className='w-[250px] h-[300px] md:w-[300px] md:h-[480px] rounded-lg m-3 ml-40 shadow-md transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-105'  />
           </div> 
           <div className='w-full mb-10 md:mb-0 md:w-[50%] flex flex-col mr-20 items-center text-center ' ><h2 className="text-4xl text-purple-300 font-bold text-center mb-20 transition delay-150 duartion-300 ease-in-out hover:translate-y-1 hover:scale-105">MessIT</h2>
@@ -117,7 +117,7 @@ const App = () => {
           </SwiperSlide>
           <SwiperSlide>
           <div className="bg-gray-800 p-5 rounded-lg shadow-lg flex flex-col md:flex-row  md:items-center justify-space space-x-10 ">
-          <div className='w-[50%] items-center justify-center '> <img src="src\assets\Image.png" alt="VinManager" 
+          <div className='w-[50%] items-center justify-center '> <img src="https://www.bing.com/images/blob?bcid=S1V.QroLjUcIs1YGMTPvQTKDEB.j.....zE" alt="VinManager" 
           className=' w-[250px] h-[300px] md:w-[400px] md:h-[450px] mb-10 md:mb-0  rounded-lg m-3 ml-40 shadow-md transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-105'  />
           </div> 
           <div className='w-full mb-10 md:mb-0 md:w-[50%] flex flex-col mr-20 items-center text-center' ><h2 className="text-4xl text-purple-300 font-bold text-center mb-20 transition delay-150 duartion-300 ease-in-out hover:translate-y-1 hover:scale-105 ">VinManager</h2>
