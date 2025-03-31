@@ -30,7 +30,7 @@ const App = () => {
         }}
       ></div>
       <Navigate/>
-      <div id='home' className='h-[500px] pt-20'>
+      <div id='home' className='h-[500px]  md:h-[700px] pt-20'>
       <motion.h1
           className='text-5xl md:text-8xl text-purple-200 text-center mt-15 p-4 font-extrabold max-sm:text-center'
           initial={{ opacity: 0, y: -50 }}
