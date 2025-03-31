@@ -108,7 +108,7 @@ const App = () => {
           </SwiperSlide>
           <SwiperSlide>
           <div className="bg-gray-800 p-5 md:h-[480px] rounded-lg shadow-lg flex flex-col md:flex-row  md:items-center justify-space space-x-20 ">
-          <div className='md:w-[50%] items-center justify-center '> <img src="src\assets\BunkBuddies.png" alt="BunkBuddies" 
+          <div className='md:w-[50%] items-center justify-center '> <img src="https://postimg.cc/p5bm3Lv5" alt="BunkBuddies" 
           className='w-[250px] h-[300px] md:w-[400px] md:h-[400px] mb-10  md:mb-0 rounded-lg md:ml-40 shadow-md transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-105'  />
           </div> 
           <div className='w-full mb-10 md:mb-0 md:w-[50%] flex flex-col mr-20 items-center text-center' ><h2 className="text-4xl text-purple-300 font-bold text-center mb-20 transition ease-in-out delay-150 duration-300 hover:translate-y-1 hover:scale-105">BunkBuddies</h2>
@@ -117,7 +117,7 @@ const App = () => {
           </SwiperSlide>
           <SwiperSlide>
           <div className="bg-gray-800 p-5 rounded-lg shadow-lg flex flex-col md:flex-row  md:items-center justify-space space-x-10 ">
-          <div className='w-full md:w-[50%] items-center justify-center '> <img src="src\assets\Image.png" alt="VinManager" 
+          <div className='w-full md:w-[50%] items-center justify-center '> <img src="https://postimg.cc/N5L0bXmC" alt="VinManager" 
           className=' w-[250px] h-[300px] md:w-[400px] md:h-[450px] mb-10 md:mb-0 rounded-lg md:ml-40 shadow-md transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-105'  />
           </div> 
           <div className='w-full mb-10 md:mb-0 md:w-[50%] flex flex-col mr-20 items-center text-center' ><h2 className="text-4xl text-purple-300 font-bold text-center mb-20 transition delay-150 duartion-300 ease-in-out hover:translate-y-1 hover:scale-105 ">VinManager</h2>
